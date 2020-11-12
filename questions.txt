@@ -1,36 +1,36 @@
-Tank capacity (L) :;
-7 litres;
+Capacity (L) :;
+22 litres;
 10 litres;
 5 litres;
 6 litres;
-7 litres;
+22 litres;
 |
-Power rating (maximum):;
-30 W;
-32 W;
-34 W;
-36 W;
-36 W;
+Auto Menus:;
+10;
+11;
+12;
+13;
+12;
 |
-Pressure rating :;
-02-10 psi;
-04-20 psi;
-05-40 psi;
-06-30 psi;
-06-30 psi;
+Glass Turntable Size:;
+270 mm;
+272 mm;
+275 mm;
+252 mm;
+272 mm;
 |
-Flow rate (per hour):;
-Up to 10 liters;
-Up to 12 liters;
-Up to 14 liters;
-Up to 15 liters;
-Up to 15 liters;
+Preset Defrost Keys:;
+5;
+6;
+7;
+8;
+7;
 |
-Ultra violet lamp power rating :;
-5 W ;
-4 W;
-3 W;
-2 W;
-4 W;
+Display Type :;
+LCD ;
+LED;
+TFT;
+AMOLED;
+LED;
 |
 
