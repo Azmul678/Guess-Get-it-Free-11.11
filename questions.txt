@@ -1,36 +1,36 @@
-Screen Size :;
-24″;
-43″;
-39″;
-32″;
-32″;
+Capacity :;
+20 Liter;
+25 Liter;
+10 Liter;
+30 Liter;
+20 Liter;
 |
-Resolution:;
-1920 x 1080;
-1366 x 768;
-1280 x 720;
-1366 x 748;
-1366 x 768;
+Rated Voltage V～;
+420-640;
+200-240;
+220-240;
+210-240;
+220-240;
 |
-Power Consumption:;
-40 W;
-41 W;
-42 W;
-47 W;
-47 W;
+Rated Frequency (Hz):;
+50;
+41;
+42;
+47;
+50;
 |
-Net Weight Without Stand (Kg):;
-5;
-6;
-7;
-4.9;
-4.9;
+Power (high speed):;
+135W;
+125W;
+115W;
+145W;
+145W;
 |
-Display Type :;
-LCD ;
-LED;
-TFT;
-AMOLED;
-LED;
+Temperature Rising (K) :;
+≤25 ;
+≤55;
+≤75;
+≤65;
+≤75;
 |
 
