@@ -1,36 +1,36 @@
-Capacity :;
-20 Liter;
-25 Liter;
-10 Liter;
-30 Liter;
-20 Liter;
+Ram :;
+4 GB;
+2 GB;
+3 GB;
+6 GB;
+4 GB;
 |
-Rated Voltage V～;
-420-640;
-200-240;
-220-240;
-210-240;
-220-240;
+Rom :;
+128 GB;
+64 GB;
+32 GB;
+16 GB;
+64 GB;
 |
-Rated Frequency (Hz):;
-50;
-41;
-42;
-47;
-50;
+Processor:;
+Snapdragon 600;
+Snapdragon 730;
+Snapdragon 450;
+MT6765 Helio P35;
+MT6765 Helio P35;
 |
-Power (high speed):;
-135W;
-125W;
-115W;
-145W;
-145W;
+Selfie Camera :;
+5 MP;
+16 MP;
+8 MP;
+12 MP;
+8 MP;
 |
-Temperature Rising (K) :;
-≤25 ;
-≤55;
-≤75;
-≤65;
-≤75;
+Battery :;
+5000mAh;
+4000mAh;
+3000mAh;
+2000mAh;
+5000mAh;
 |
 
