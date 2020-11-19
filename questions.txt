@@ -1,36 +1,36 @@
-Ram :;
-4 GB;
-2 GB;
-3 GB;
-6 GB;
-6 GB;
+Power rating (maximum) :;
+36 W;
+32 W;
+30 W;
+34 W;
+36 W;
 |
-Rom :;
-128 GB;
-64 GB;
-32 GB;
-16 GB;
-128 GB;
+Flow rate (Per Hour) :;
+Up to 10 liters;
+Up to 11 liters;
+Up to 12 liters;
+Up to 15 liters;
+Up to 15 liters;
 |
-Processor:;
-Snapdragon 675;
-Snapdragon 730;
-Snapdragon 450;
-MT6765 Helio P35;
-Snapdragon 675;
+Tank capacity:;
+5 litres;
+7 litres;
+6 litres;
+8 litres;
+7 litres;
 |
-Selfie Camera :;
-32 MP;
-16 MP;
-8 MP;
-12 MP;
-16 MP;
+Input voltage range :;
+210 V;
+220 V;
+240 V;
+230 V;
+230 V;
 |
-Battery :;
-5000mAh;
-4000mAh;
-3500mAh;
-3000mAh;
-3500mAh;
+Purifying stages :;
+6;
+5;
+4;
+3;
+2;
 |
 
